@@ -95,7 +95,7 @@
 
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/danialcodes">
-      <img src="https://github-readme-stats.vercel.app/api?username=danialcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="60%" height="250">
+      <img src="https://github-readme-stats.vercel.app/api?username=danialcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="55%" height="250">
     </a>
     <a href="https://github.com/danialcodes">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialcodes&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" height="250">
