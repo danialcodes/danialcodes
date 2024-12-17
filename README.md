@@ -98,13 +98,13 @@
       <img src="https://github-readme-stats.vercel.app/api?username=danialcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="60%" height="250">
     </a>
     <a href="https://github.com/danialcodes">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialcodes&layout=compact&theme=tokyonight" alt="Top Languages" width="35%" height="250">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialcodes&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" height="250">
     </a>
   </div>
 
-  <div style="margin-top: 20px;">
+  <!-- <div style="margin-top: 20px;">
     <a href="https://github.com/danialcodes">
       <img src="https://streak-stats.demolab.com/?user=danialcodes&theme=tokyonight" alt="GitHub Streak" width="300">
     </a>
-  </div>
+  </div> -->
 </div>
