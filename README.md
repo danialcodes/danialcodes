@@ -4,11 +4,13 @@
 
 ### Undergrad Alumni @ Brac University, Dhaka
 
-[![Profile Views](https://komarev.com/ghpvc/?username=danialcodes&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/danialcodes)
+[![Profile Views](https://komarev.com/ghpvc/?username=danialcodes&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/danialcodes)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danialcodes)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=white)](https://www.linkedin.com/in/danialcodes/)
 
 </div>
+
+<!-- [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=danialcodes.danialcodes)](https://github.com/danialcodes) -->
 
 ## 📫 Get in Touch
 - 📧 Email: mddanialislam.official@gmail.com
