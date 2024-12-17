@@ -1,8 +1,12 @@
 <div align="center">
-  
-# 👨‍💻 Hi, I am Md Danial Islam
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=400&size=30&duration=3000&lines=👨‍💻+Hay,+This+is;Md+Danial+Islam....&center=true&vCenter=true)](https://git.io/typing-svg)
 
 ### Undergrad Alumni @ Brac University, Dhaka
+
+
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=danialcodes&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/danialcodes)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danialcodes)
