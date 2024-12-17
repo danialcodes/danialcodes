@@ -82,10 +82,29 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danialcodes&show_icons=true&theme=tokyonight)](https://github.com/danialcodes)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danialcodes&layout=compact&theme=tokyonight)](https://github.com/danialcodes)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danialcodes&theme=tokyonight)](https://github.com/danialcodes)
 
+</div> -->
+
+<div align="center">
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/danialcodes">
+      <img src="https://github-readme-stats.vercel.app/api?username=danialcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300" height="150">
+    </a>
+    <a href="https://github.com/danialcodes">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialcodes&layout=compact&theme=tokyonight" alt="Top Languages" width="300" height="150">
+    </a>
+  </div>
+
+  <div style="margin-top: 20px;">
+    <a href="https://github.com/danialcodes">
+      <img src="https://streak-stats.demolab.com/?user=danialcodes&theme=tokyonight" alt="GitHub Streak" width="300">
+    </a>
+  </div>
 </div>
